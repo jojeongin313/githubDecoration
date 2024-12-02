@@ -5,10 +5,10 @@
 ---
 
 <div align="center">
-  <h1>👋 Hi, I'm 신민아</h1>
-  <h3>📚 인공지능 소프트웨어학과 | 202</h3>
+  <h1>👋 Hi, I'm 조정인</h1>
+  <h3>📚동양미래대학교 인공지능 소프트웨어학과</h3>
   <p>
-    <i>🌟 Passionate about Artificial Intelligence, Web Development, and Data Analysis!</i>
+    <i>🌟🌟🌟🌟🌟🌟🌟🌟 </i>
   </p>
 </div>
 
@@ -39,27 +39,16 @@
 
 ---
 
-## 🌈 프로젝트 목표
-1. **데이터 분석 프로젝트:** 데이터 시각화와 예측 모델 구축.
-2. **오픈소스 활용:** GitHub를 활용한 협업 프로젝트 제작.
-3. **웹 애플리케이션 개발:** HTML, CSS, JavaScript를 활용한 실습 프로젝트.
-4. **머신러닝 구현:** Python과 딥러닝 라이브러리를 이용한 신경망 모델 학습.
-
----
-
-## 📊 통계 및 활동
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
 
 ## 🌟 기타 정보
-- **💌 연락처:** [신민아](mailto:your-email@example.com)  
+- **💌 연락처:** [조정인](jojeongin313@gmail.com)  
 - **🌐 블로그:** [블로그 링크](https://your-blog-link.com)  
-- **🎨 취미:** Web Design, Problem Solving, and AI Exploration!
+- **🎨 취미:** Web Design, 사진촬영, 영화시청
+
+- 
+---
+!
 
 <div align="center">
-  <i>✨ Keep Learning. Keep Growing. ✨</i>
+  <i>✨✨✨✨✨✨✨✨✨✨✨✨✨✨</i>
 </div>
