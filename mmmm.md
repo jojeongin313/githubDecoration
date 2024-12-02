@@ -1,10 +1,3 @@
-<marquee behavior="scroll" direction="left">
-  Scrolling Text
-</marquee>
-<div align="center">
-  <h2>🎉 환영합니다! 🎉</h2>
-  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" height="10%" width="100%">
-</div>
 <svg width="500" height="250" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect width="100%" height="100%" fill="#f5f5f5"/>
