@@ -20,4 +20,5 @@
 ![GitHub Contributions](https://your-username.github.io/your-repository-name/graph.png)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00F700&background=000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Enjoy+explor
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00F700&background=000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Enjoy+exploring+my+repositories!)
+
