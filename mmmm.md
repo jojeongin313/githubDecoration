@@ -6,3 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-65%25-3572A5)
 ![JSP](https://img.shields.io/badge/JSP-60%25-f89820)
 ![SQL](https://img.shields.io/badge/SQL-55%25-00618a)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
