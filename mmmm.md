@@ -42,3 +42,6 @@
 
 ## My GitHub Streak 🔥
 ![GitHub Streak](https://streak-stats.demolab.com?user=jojeongin313&theme=dark&hide_border=true)
+
+
+![Contributions Calendar](https://github-calendar.now.sh/jojeongin313)
