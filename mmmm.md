@@ -17,3 +17,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%40your-username-blue)
 ![Commits](https://img.shields.io/badge/Commits-58-green)
 ![Issues](https://img.shields.io/badge/Issues-2-yellow)
+![GitHub Contributions](https://your-username.github.io/your-repository-name/graph.png)
