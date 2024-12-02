@@ -14,12 +14,14 @@
 ---
 
 ## My Contribution Graph 🌱
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jojeongin313&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jojeongin313&theme=github)
+
+> **Note**: 만약 여전히 작동하지 않는다면 [Ashutosh00710의 가이드](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-instance)를 따라 직접 배포하세요.
 
 ---
 
 ## My GitHub Streak 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jojeongin313&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=jojeongin313&theme=dark&hide_border=true)
 
 ---
 
@@ -34,4 +36,4 @@
 ---
 
 ## Thanks for Visiting! 🚀
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jojeongin313.jojeongin313)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jojeongin313)
