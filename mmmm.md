@@ -36,24 +36,6 @@
 ---
 
 ## My Contribution Graph 🌱
+> **대체 URL 사용**
+```markdown
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jojeongin313&theme=github)
-
----
-
-## My GitHub Streak 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jojeongin313&theme=dark)
-
----
-
-## My Trophies 🏆
-![Trophies](https://github-profile-trophy.vercel.app/?username=jojeongin313&theme=gruvbox)
-
----
-
-## Quote of the Day 💬
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## Thanks for Visiting! 🚀
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jojeongin313.jojeongin313)
