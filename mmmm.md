@@ -5,109 +5,35 @@
   <h2>🎉 환영합니다! 🎉</h2>
   <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" height="10%" width="100%">
 </div>
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0-blue)
-<marquee behavior="scroll" direction="left">
-  Scrolling Text
-</marquee>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Text Animations</title>
-  <style>
-    /* 1. Color Changing Text */
-    @keyframes colorChange {
-      0% { color: red; }
-      50% { color: blue; }
-      100% { color: green; }
-    }
+<svg width="500" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
 
-    /* 2. Fading Text */
-    @keyframes fadeInOut {
-      0%, 100% { opacity: 0; }
-      50% { opacity: 1; }
-    }
+  <!-- HTML Bar -->
+  <rect x="0" y="20" width="90%" height="20" fill="#e34c26" />
+  <text x="5" y="35" font-family="Arial" font-size="14" fill="#ffffff">HTML - 90%</text>
 
-    /* 3. Pulsing Text */
-    @keyframes pulse {
-      0%, 100% { font-size: 16px; }
-      50% { font-size: 24px; }
-    }
+  <!-- CSS Bar -->
+  <rect x="0" y="50" width="80%" height="20" fill="#264de4" />
+  <text x="5" y="65" font-family="Arial" font-size="14" fill="#ffffff">CSS - 80%</text>
 
-    /* 4. Shaking Text */
-    @keyframes shake {
-      0% { transform: translateX(0); }
-      25% { transform: translateX(-5px); }
-      50% { transform: translateX(5px); }
-      75% { transform: translateX(-5px); }
-      100% { transform: translateX(0); }
-    }
+  <!-- Java Bar -->
+  <rect x="0" y="80" width="75%" height="20" fill="#b07219" />
+  <text x="5" y="95" font-family="Arial" font-size="14" fill="#ffffff">Java - 75%</text>
 
-    /* 5. Background Color Changing Box */
-    @keyframes bgChange {
-      0% { background-color: yellow; }
-      50% { background-color: orange; }
-      100% { background-color: pink; }
-    }
+  <!-- C Bar -->
+  <rect x="0" y="110" width="70%" height="20" fill="#555555" />
+  <text x="5" y="125" font-family="Arial" font-size="14" fill="#ffffff">C - 70%</text>
 
-    /* 6. Bouncing Text */
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
+  <!-- Python Bar -->
+  <rect x="0" y="140" width="65%" height="20" fill="#3572A5" />
+  <text x="5" y="155" font-family="Arial" font-size="14" fill="#ffffff">Python - 65%</text>
 
-    /* 7. Rotating Text */
-    @keyframes rotate {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
+  <!-- JSP Bar -->
+  <rect x="0" y="170" width="60%" height="20" fill="#f89820" />
+  <text x="5" y="185" font-family="Arial" font-size="14" fill="#ffffff">JSP - 60%</text>
 
-    /* 8. Typing Effect */
-    @keyframes typing {
-      0% { width: 0; }
-      100% { width: 100%; }
-    }
-
-    /* 9. Underline Blinking */
-    @keyframes underlineBlink {
-      0%, 100% { text-decoration-color: transparent; }
-      50% { text-decoration-color: black; }
-    }
-  </style>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 2; padding: 20px;">
-
-  <h2>1. Color Changing Text</h2>
-  <span style="animation: colorChange 2s infinite; display: inline-block;">Color Changing Text</span>
-
-  <h2>2. Fading Text</h2>
-  <span style="animation: fadeInOut 3s infinite; display: inline-block;">Fading Text</span>
-
-  <h2>3. Pulsing Text</h2>
-  <span style="animation: pulse 2s infinite; display: inline-block;">Pulsing Text</span>
-
-  <h2>4. Shaking Text</h2>
-  <span style="animation: shake 0.5s infinite; display: inline-block;">Shaking Text</span>
-
-  <h2>5. Background Color Changing Box</h2>
-  <div style="animation: bgChange 2s infinite; padding: 10px; display: inline-block;">Background Changing Box</div>
-
-  <h2>6. Bouncing Text</h2>
-  <span style="animation: bounce 1.5s infinite; display: inline-block;">Bouncing Text</span>
-
-  <h2>7. Rotating Text</h2>
-  <span style="animation: rotate 2s infinite linear; display: inline-block;">Rotating Text</span>
-
-  <h2>8. Typing Effect</h2>
-  <span style="animation: typing 4s steps(10) infinite; overflow: hidden; white-space: nowrap; display: inline-block; width: 10ch; border-right: 2px solid black;">Typing Effect</span>
-
-  <h2>9. Underline Blinking</h2>
-  <span style="animation: underlineBlink 1s infinite; display: inline-block; text-decoration: underline;">Underline Blinking</span>
-
-  <h2>10. Scrolling Text</h2>
-  <marquee behavior="scroll" direction="left">Scrolling Text</marquee>
-
-</body>
-</html>
+  <!-- SQL Bar -->
+  <rect x="0" y="200" width="55%" height="20" fill="#00618a" />
+  <text x="5" y="215" font-family="Arial" font-size="14" fill="#ffffff">SQL - 55%</text>
+</svg>
