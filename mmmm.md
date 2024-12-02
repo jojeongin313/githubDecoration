@@ -1,25 +1,3 @@
-# My GitHub Stats
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jojeongin313&show_icons=true&theme=radical)
-
-## GitHub Contributions Graph
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jojeongin313&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jojeongin313&layout=compact&theme=radical)
-
-## Contact & Social
-- **Email**: [kiki0606pus@dongyang.ac.kr](mailto:kiki0606pus@dongyang.ac.kr)
-- **University**: 동양미래대학교
-
-## Fun Elements
-![GitHub](https://img.shields.io/badge/GitHub-%40your-username-blue)
-![Commits](https://img.shields.io/badge/Commits-58-green)
-![Issues](https://img.shields.io/badge/Issues-2-yellow)
-![GitHub Contributions](https://your-username.github.io/your-repository-name/graph.png)
-
-
 # Welcome to My GitHub Profile! 👋
 
 ## Typing Animation
@@ -36,6 +14,33 @@
 ---
 
 ## My Contribution Graph 🌱
-> **대체 URL 사용**
-```markdown
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jojeongin313&theme=github)
+
+> **대체 가이드**: `Activity Graph`가 여전히 작동하지 않을 경우, 아래 방법을 사용하세요:
+- [Ashutosh's Guide](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-instance)를 따라 직접 호스팅.
+
+---
+
+## My GitHub Streak 🔥
+![GitHub Streak](https://streak-stats.demolab.com?user=jojeongin313&theme=dark&hide_border=true)
+
+---
+
+## My Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=jojeongin313&theme=gruvbox)
+
+---
+
+## Visitors Count 🚀
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jojeongin313)
+
+> **대체 가이드**: 만약 방문자 카운터가 표시되지 않으면, 다른 서비스를 사용하거나 제거하세요.
+
+---
+
+## Quote of the Day 💬
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## Thanks for Visiting! 🙌
