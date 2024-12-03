@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=24&duration=4000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+jojeongin313's+GitHub!;Enjoy+exploring+my+repositories!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=50&duration=4000&color=000000&background=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+jojeongin313's+GitHub!;Enjoy+exploring+my+repositories!)
 
     🌟🌟🌟🌟🌟🌟🌟🌟
   </p>
