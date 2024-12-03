@@ -33,12 +33,20 @@
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
+
+ 
 ---
 
-## My Trophies 🏆
+## 🏆 My Trophies 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jojeongin313&theme=gruvbox)
 
+
+
+## My GitHub Streak 🔥
+![GitHub Streak](https://streak-stats.demolab.com?user=jojeongin313&theme=dark&hide_border=true)
+
 ---
+
 
 
 ## 🔭 기타 정보
