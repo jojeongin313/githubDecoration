@@ -5,9 +5,8 @@
 ---
 
 <div align="center">
-  <h1>👋 Hi, I'm 조정인</h1>
-  <h3>동양미래대학교 인공지능 소프트웨어학과</h3>
-  <p>
+  ## Typing Animation
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=24&duration=4000&color=000000&background=FFFFFE&center=true&vCenter=true&width=500&lines=Welcome+to+jojeongin313's+GitHub!;Enjoy+exploring+my+repositories!)
     <i>🌟🌟🌟🌟🌟🌟🌟🌟 </i>
   </p>
 </div>
