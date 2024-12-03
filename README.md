@@ -18,9 +18,9 @@
 - **🌐 웹서버프로그래밍:** 클라이언트-서버 기반 웹 개발
 - **💾 데이터베이스:** 데이터 모델링 및 SQL
 - **💻 자바스크립트:** 동적 웹 인터페이스 제작
-- **🧠 인공신경망:** 머신러닝 및 딥러닝 기초
-(*오소소 깃허브 : https://github.com/ai7dnn/2024-OSS  |  https://github.com/ai7dnn/2024-OSS/tree/main/%EC%9B%90%EA%B2%A9%EA%B0%95%EC%A2%8C%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C)
-( 데분입깃허브 : https://github.com/ai7dnn/2024-intro-DA  |  https://github.com/ai7dnn/2024-intro-DA/tree/main/youtube-contents)
+- **🧠 인공신경망:** 머신러닝 및 딥러닝 기초 <br>
+(*오소소 깃허브 : https://github.com/ai7dnn/2024-OSS  |  https://tinyurl.com/2024-OSS)<br>
+( 데분입깃허브 : https://github.com/ai7dnn/2024-intro-DA  |  https://tinyurl.com/intro-DA)<br>
 ---
 
 ## 💻 사용 가능한 언어
