@@ -34,9 +34,6 @@
 </div>
 
 
- 
----
-
 ## 🏆 My Trophies 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jojeongin313&theme=gruvbox)
 
