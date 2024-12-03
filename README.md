@@ -35,6 +35,11 @@
 
 ---
 
+## My Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=jojeongin313&theme=gruvbox)
+
+---
+
 
 ## 🔭 기타 정보
 - **💌 연락처:** jojeongin313@gmail.com  
