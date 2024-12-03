@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/0d/d7/35/0dd735c733f0e61402de282d78f97f8c.jpg"width="1000" height="200" alt="GIF Example"/>
 </div>
 
----
+
 
 <div align="center">
   
@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ##  🌱학업 내용
 ### 이번 학기에 배우고 있는 과목
