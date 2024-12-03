@@ -19,7 +19,7 @@
 - **💾 데이터베이스:** 데이터 모델링 및 SQL
 - **💻 자바스크립트:** 동적 웹 인터페이스 제작
 - **🧠 인공신경망:** 머신러닝 및 딥러닝 기초 <br>
-(*오소소 깃허브 : https://github.com/ai7dnn/2024-OSS  |  https://tinyurl.com/2024-OSS)<br>
+( 오소소 깃허브 : https://github.com/ai7dnn/2024-OSS  |  https://tinyurl.com/2024-OSS)<br>
 ( 데분입깃허브 : https://github.com/ai7dnn/2024-intro-DA  |  https://tinyurl.com/intro-DA)<br>
 ---
 
