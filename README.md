@@ -10,7 +10,7 @@
 
 </div>
 
-![image](https://github.com/user-attachments/assets/a0542d25-b94e-4df8-9aec-6c109161af98)
+
 
 ##  🌱학업 내용
 ### 이번 학기에 배우고 있는 과목
