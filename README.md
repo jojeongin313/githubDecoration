@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/a25312b8-8ea5-4cff-88b3-7b5181e53913)<div align="center">
-  <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif"width="1000" height="200" alt="GIF Example"/>
+<img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif"width="1000" height="200" alt="GIF Example"/>
 </div>
 
 
