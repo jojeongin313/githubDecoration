@@ -1,4 +1,5 @@
 ## GitHub README 텍스트 애니메이션 예제
+![Uploading image.png…]()
 
 ---
 
