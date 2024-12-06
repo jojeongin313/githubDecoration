@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/a25312b8-8ea5-4cff-88b3-7b5181e53913)<div align="center">
   <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif"width="1000" height="200" alt="GIF Example"/>
 </div>
 
@@ -10,6 +10,7 @@
 
 </div>
 
+![image](https://github.com/user-attachments/assets/a0542d25-b94e-4df8-9aec-6c109161af98)
 
 ##  🌱학업 내용
 ### 이번 학기에 배우고 있는 과목
